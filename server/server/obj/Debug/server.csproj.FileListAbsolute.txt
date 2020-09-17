@@ -1,0 +1,8 @@
+C:\Users\48798\source\repos\server\server\bin\Debug\server.exe.config
+C:\Users\48798\source\repos\server\server\bin\Debug\server.exe
+C:\Users\48798\source\repos\server\server\bin\Debug\server.pdb
+C:\Users\48798\source\repos\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\48798\source\repos\server\server\obj\Debug\server.exe
+C:\Users\48798\source\repos\server\server\obj\Debug\server.pdb
+C:\Users\48798\source\repos\server\server\obj\Debug\server.ProjectInstaller.resources
+C:\Users\48798\source\repos\server\server\obj\Debug\server.csproj.GenerateResource.cache

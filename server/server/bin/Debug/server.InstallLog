@@ -1,0 +1,125 @@
+﻿Instalowanie zestawu 'C:\Users\48798\source\repos\server\server\bin\Debug\server.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\48798\source\repos\server\server\bin\Debug\server.InstallLog
+   assemblypath = C:\Users\48798\source\repos\server\server\bin\Debug\server.exe
+   logtoconsole = 
+Nie można znaleźć instalatorów publicznych z atrybutem RunInstallerAttribute.Yes w zestawie C:\Users\48798\source\repos\server\server\bin\Debug\server.exe.
+Zatwierdzanie zestawu 'C:\Users\48798\source\repos\server\server\bin\Debug\server.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\48798\source\repos\server\server\bin\Debug\server.InstallLog
+   assemblypath = C:\Users\48798\source\repos\server\server\bin\Debug\server.exe
+   logtoconsole = 
+Nie można znaleźć instalatorów publicznych z atrybutem RunInstallerAttribute.Yes w zestawie C:\Users\48798\source\repos\server\server\bin\Debug\server.exe.
+Usuwanie pliku InstallState z powodu braku instalatorów.
+Odinstalowywanie zestawu 'C:\Users\48798\source\repos\server\server\bin\Debug\server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\48798\source\repos\server\server\bin\Debug\server.InstallLog
+   assemblypath = C:\Users\48798\source\repos\server\server\bin\Debug\server.exe
+Usuwanie źródła EventLog Service1.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Próba zatrzymania usługi Service1.
+Instalowanie zestawu 'C:\Users\48798\source\repos\server\server\bin\Debug\server.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\48798\source\repos\server\server\bin\Debug\server.InstallLog
+   assemblypath = C:\Users\48798\source\repos\server\server\bin\Debug\server.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Usługa Service1 została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\48798\source\repos\server\server\bin\Debug\server.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\48798\source\repos\server\server\bin\Debug\server.InstallLog
+   assemblypath = C:\Users\48798\source\repos\server\server\bin\Debug\server.exe
+   logtoconsole = 
+Odinstalowywanie zestawu 'C:\Users\48798\source\repos\server\server\bin\Debug\server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\48798\source\repos\server\server\bin\Debug\server.InstallLog
+   assemblypath = C:\Users\48798\source\repos\server\server\bin\Debug\server.exe
+Usuwanie źródła EventLog Service1.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\48798\source\repos\server\server\bin\Debug\server.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\48798\source\repos\server\server\bin\Debug\server.InstallLog
+   assemblypath = C:\Users\48798\source\repos\server\server\bin\Debug\server.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\48798\source\repos\server\server\bin\Debug\server.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\48798\source\repos\server\server\bin\Debug\server.InstallLog
+   assemblypath = C:\Users\48798\source\repos\server\server\bin\Debug\server.exe
+   logtoconsole = 
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła Service1.
+Odinstalowywanie zestawu 'C:\Users\48798\source\repos\server\server\bin\Debug\server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\48798\source\repos\server\server\bin\Debug\server.InstallLog
+   assemblypath = C:\Users\48798\source\repos\server\server\bin\Debug\server.exe
+Usuwanie źródła EventLog Service1.
+Ostrzeżenie: źródło Service1 nie jest zarejestrowane na komputerze lokalnym.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\48798\source\repos\server\server\bin\Debug\server.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\48798\source\repos\server\server\bin\Debug\server.InstallLog
+   assemblypath = C:\Users\48798\source\repos\server\server\bin\Debug\server.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\48798\source\repos\server\server\bin\Debug\server.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\48798\source\repos\server\server\bin\Debug\server.InstallLog
+   assemblypath = C:\Users\48798\source\repos\server\server\bin\Debug\server.exe
+   logtoconsole = 
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła Service1.
+Odinstalowywanie zestawu 'C:\Users\48798\source\repos\server\server\bin\Debug\server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\48798\source\repos\server\server\bin\Debug\server.InstallLog
+   assemblypath = C:\Users\48798\source\repos\server\server\bin\Debug\server.exe
+Usuwanie źródła EventLog Service1.
+Ostrzeżenie: źródło Service1 nie jest zarejestrowane na komputerze lokalnym.
+Trwa usuwanie usługi Service1 z systemu...
+Usługa Service1 została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\48798\source\repos\server\server\bin\Debug\server.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\48798\source\repos\server\server\bin\Debug\server.InstallLog
+   assemblypath = C:\Users\48798\source\repos\server\server\bin\Debug\server.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\48798\source\repos\server\server\bin\Debug\server.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\48798\source\repos\server\server\bin\Debug\server.InstallLog
+   assemblypath = C:\Users\48798\source\repos\server\server\bin\Debug\server.exe
+   logtoconsole = 
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła Service1.
+Instalowanie zestawu 'C:\Users\48798\source\repos\server\server\bin\Debug\server.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\48798\source\repos\server\server\bin\Debug\server.InstallLog
+   assemblypath = C:\Users\48798\source\repos\server\server\bin\Debug\server.exe
+   logtoconsole = 
+Trwa instalowanie usługi Service1...
+Usługa Service1 została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog Service1 w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\48798\source\repos\server\server\bin\Debug\server.exe'.
+Uwzględnione parametry to:
+   i = 
+   logfile = C:\Users\48798\source\repos\server\server\bin\Debug\server.InstallLog
+   assemblypath = C:\Users\48798\source\repos\server\server\bin\Debug\server.exe
+   logtoconsole = 
