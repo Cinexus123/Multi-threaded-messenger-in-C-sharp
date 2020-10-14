@@ -1,7 +1,5 @@
 # Multi-threaded-messenger-in-C-sharp
 
-# Multi-threaded-messenger-in-C-sharp
-
 The main goal of the project was to test the efficiency of text data flow. The program assumed the creation of a multi-threaded server that would handle queuing, saving and maintaining the current network connection between two users. The main client layout looks like this:
 
 ![](fotos/layout.PNG)
